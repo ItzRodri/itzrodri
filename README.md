@@ -8,6 +8,10 @@
     <summary><h1 style="display: inline-block">Hi there👋, I'm Rodrigo Gutierrez Cruz</h1></summary>
   </ul>
 </div>
+  <img src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/hollor_knight3.gif" width="200"/>
+
+<br>
+
 ## 🛠️ My Skills
 
 ### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Programming_Languages.gif?raw=true" width = 20px>  </picture> Programming languages
